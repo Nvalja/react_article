@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,KACE,gBAAiB,CACjB,aAAc,CACd,iBAAkB,CAClB,qBAAuB","file":"main.85b4f7af.chunk.css","sourcesContent":["// style go here\nbody {\n  max-width: 1600px;\n  margin: 0 auto;\n  text-align: center;\n  border: 1px solid black;\n}\n"]}
